@@ -1,0 +1,22 @@
+<root>
+  <pic n="030">
+    <y val="115">
+      <point>(38, 115)</point>
+      <point>(170, 115)</point>
+    </y>
+    <y val="67">
+      <point>(121, 67)</point>
+      <point>(221, 67)</point>
+    </y>
+  </pic>
+  <pic n="003">
+    <y val="72">
+      <point>(112, 72)</point>
+      <point>(216, 72)</point>
+    </y>
+    <y val="112">
+      <point>(43, 112)</point>
+      <point>(173, 112)</point>
+    </y>
+  </pic>
+</root>

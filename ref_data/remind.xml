@@ -1,0 +1,7 @@
+<root>
+    <ref_y>112</ref_y>
+    <hough_pic>3</hough_pic>
+    <connectivity_pic>97</connectivity_pic>
+    <first_conn_ind>8</first_conn_ind>
+    <second_conn_ind>15</second_conn_ind>
+</root>
